@@ -16,7 +16,7 @@
 * 小程序必须使用https协议 443端口
 
 ### 效果图
-![小程序二维码](https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2019-07-22/gh_da15c43d0fd5_344.jpg)
+
 
 
 ![欢迎页.jpg](https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2019-07-22/%E6%AC%A2%E8%BF%8E%E9%A1%B5.jpg)
